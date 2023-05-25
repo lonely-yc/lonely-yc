@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://raw.githubusercontent.com/lonely-yc/lonely-yc/main/assets/github-contribution-grid-snake.svg)
+<!--  snk -->
+![Snake animation](https://github.com/lonely-yc/lonely-yc/blob/output/github-contribution-grid-snake.svg)
 <!--
 **lonely-yc/lonely-yc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
