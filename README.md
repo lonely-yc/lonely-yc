@@ -31,103 +31,10 @@
 </picture>
 </div>
 
-<table>
-  
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                272 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-🌆 Daytime                447 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
-🌃 Evening                502 commits         █████████░░░░░░░░░░░░░░░░   35.68 % 
-🌙 Night                  186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Tuesday                  182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Wednesday                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Thursday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Friday                   398 commits         ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-Saturday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Sunday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Vue.js                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-JavaScript               1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-CSS                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-YAML                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 49 mins       ████████████████████░░░░░   80.59 % 
-IntelliJ                 1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Obsidian                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-
-💻 Operating System: 
-Windows                  10 hrs 9 mins       ███████████████████████░░   92.84 % 
-Mac                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-```
-
-
- Last Updated on 05/07/2023 01:50:40 UTC
-<!--END_SECTION:waka-->
-  
-</td></tr>
-</table>
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
-
-```mermaid
-mindmap
-  root((小李同学))
-    编程
-      Web开发
-      网络爬虫
-      人工智能
-    摄影
-      人文
-      建筑
-      风景
-    旅行
-      济南
-      潍坊
-      昌邑
-      塔耳埠
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      心理
-      计算机技术
-```
-
-<!--  skill badge 技能徽章 -->
-💪 正在学习
-
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
   
 🧠 计划学习
 
@@ -197,9 +104,6 @@ mindmap
   
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-  
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 <!-- GitHub 数据统计 -->
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
