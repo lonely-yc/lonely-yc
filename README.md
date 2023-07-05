@@ -29,40 +29,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 </div>
-
-#  🙋 Hello
 
 <table>
 <tr><td>
-
-<!-- About me 关于我 -->
-### 🤺 About Me
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
-<tr><td>
-
-<!-- 近期博客 -->
-### 📃 Recent Blog
-  
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-* <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
-<!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
 <!-- START_SECTION:brain -->
 * <a href='https://brain.sunguoqi.com/life/coder/yihong.html' target='_blank'>伊洪</a> - 2023-07-04
 * <a href='https://brain.sunguoqi.com/web/advanced/vue/learn/componebts/' target='_blank'>test</a> - 2023-06-25
