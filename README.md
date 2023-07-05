@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--  snk -->
-![Snake animation](https://github.com/lonely-yc/lonely-yc/blob/output/github-contribution-grid-snake.svg)
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
 <!--
 **lonely-yc/lonely-yc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
